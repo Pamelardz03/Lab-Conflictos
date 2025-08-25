@@ -1,3 +1,3 @@
 # Lab-Conflictos
 otro nuevo repo
-esta linea fue agregada en feature-a
+esta linea fue agregada en feature-b y feature-a
